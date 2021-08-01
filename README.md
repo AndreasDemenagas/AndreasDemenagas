@@ -7,14 +7,17 @@ I am a 19-year-old responsible, reliable and willing to learn Computer Science ð
 * 2nd Year CS Student @ University of Southampton
 
 #### Skills:
+<div> 
+  <img src="./logos/swift-icon.svg" width=55>
+  <img src="./logos/javascript.svg" width=60>
+  <img src="./logos/typescript.svg" width=60>
+  <img src="./logos/python.svg" width=60>
+  <img src="./logos/react.svg" width=60>
+  <img src="./logos/nodejs.svg" width=60>
+  <img src="./logos/redux.svg" width=60>
+</div>
 
-<img src="./logos/swift-icon.svg" width=55>
-<img src="./logos/javascript.svg" width=60>
-<img src="./logos/typescript.svg" width=60>
-<img src="./logos/python.svg" width=60>
-<img src="./logos/react.svg" width=60>
-<img src="./logos/nodejs.svg" width=60>
-<img src="./logos/redux.svg" width=60>
+<br/>
 
 ![Andreas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasDemenagas&hide=stars&show_icons=true&count_private=true&theme=dark)
 
