@@ -17,10 +17,13 @@ I am a 19-year-old responsible, reliable and willing to learn Computer Science ð
   <img src="./logos/redux.svg" width=60>
 </div>
 
+#### Personal Projects: 
+* **HotelMovie** - iOS app for searching, viewing and saving movies. 
+* **CourseBuddy** - iOS app that lets you save and manage your IBDP courses smartly. 
+* **TodoMaster** - Simple todo list application for iOS devices 
+* **Netflix Compositional** - Clone of the Netflix application using iOS' Compositional Layout APIs
+
+
 <br/>
 
 ![Andreas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasDemenagas&hide=stars&show_icons=true&count_private=true&theme=dark)
-
-
-
-
