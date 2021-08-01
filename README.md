@@ -18,8 +18,8 @@ I am a 19-year-old responsible, reliable and willing to learn Computer Science ð
 </div>
 
 #### Personal Projects: 
-1. **HotelMovie** - iOS app for searching, viewing and saving movies. 
-2. **CourseBuddy** - iOS app that lets you save and manage your IBDP courses smartly. 
+1. **[HotelMovie](https://github.com/AndreasDemenagas/HotelMovieApp)** - iOS app for searching, viewing and saving movies. 
+2. **[CourseBuddy](https://github.com/AndreasDemenagas/CourseBuddy)** - iOS app that lets you save and manage your IBDP courses smartly. 
 3. **TodoMaster** - Simple todo list application for iOS devices 
 4. **Netflix Compositional** - Clone of the Netflix application using iOS' Compositional Layout APIs
 
