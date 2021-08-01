@@ -27,3 +27,7 @@ I am a 19-year-old responsible, reliable and willing to learn Computer Science ð
 <br/>
 
 ![Andreas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasDemenagas&hide=stars&show_icons=true&count_private=true&theme=dark)
+
+<a href="https://www.linkedin.com/in/andreas-demenagas-1783971b9/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
