@@ -20,7 +20,7 @@ I am a 19-year-old responsible, reliable and willing to learn Computer Science ð
 #### Personal Projects: 
 1. **[HotelMovie](https://github.com/AndreasDemenagas/HotelMovieApp)** - iOS app for searching, viewing and saving movies. 
 2. **[CourseBuddy](https://github.com/AndreasDemenagas/CourseBuddy)** - iOS app that lets you save and manage your IBDP courses smartly. 
-3. **Foodlink** - iOS application for searching, looking and saving recipes. Built using iOS' CompositionalLayout & DiffableDataSource APIs.
+3. **Foodlink** - iOS application for searching, looking and saving recipes. 
 4. **TodoMaster** - Simple todo list application for iOS devices. Built with UIKit and CoreData. 
 5. **Netflix Compositional** - Clone of the Netflix application using iOS' Compositional Layout APIs.
 
