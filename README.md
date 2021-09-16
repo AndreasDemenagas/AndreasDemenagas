@@ -21,8 +21,9 @@ I am a 19-year-old responsible, reliable and willing to learn Computer Science ð
 1. **[HotelMovie](https://github.com/AndreasDemenagas/HotelMovieApp)** - iOS app for searching, viewing and saving movies. 
 2. **[CourseBuddy](https://github.com/AndreasDemenagas/CourseBuddy)** - iOS app that lets you save and manage your IBDP courses smartly. 
 3. **[Foodlink](https://github.com/AndreasDemenagas/Foodlink)** - iOS application for searching, looking and saving recipes. 
-4. **TodoMaster** - Simple todo list application for iOS devices. Built with UIKit and CoreData. 
-5. **[Netflix Compositional](https://github.com/AndreasDemenagas/Netflix-Compositional)** - Clone of the Netflix application using iOS' Compositional Layout APIs.
+4. **[Netflix Compositional](https://github.com/AndreasDemenagas/Netflix-Compositional)** - Clone of the Netflix application using iOS' Compositional Layout APIs.
+5. **[Internet Safety Rules](https://github.com/AndreasDemenagas/InternetSafetyRules)** - Interactive app to teach the 10 Internet Safety Rules as descibed by the Greek CSIi.
+6. **TodoMaster** - Simple todo list application for iOS devices. Built with UIKit and CoreData. 
 
 
 <br/>
