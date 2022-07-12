@@ -1,10 +1,10 @@
 ## Hello! 🏎
 
-I am a 19-year-old responsible, reliable and willing to learn Computer Science 💻 student looking for a summer internship in the field of Software Engineering. I have spent the last year working on a ***TypeScript - React.js*** application to wirelessly show and graph real-time telemetry sensor data from a race car used during Formula Student competitions. During the previous years, I self-taught ***iOS development*** whilst pursuing High School and University level studies. I am always willing to learn and keen to be able to help a team achieve its goals and ambitions 🙂. 
+I am a 20-year-old responsible, reliable and willing to learn Computer Science 💻 student looking for a summer internship in the field of Software Engineering, iOS Development and Project Management. I have spent the last year working on a **TypeScript - React.js** application to wirelessly show and graph real-time telemetry sensor data from a race car used during Formula Student competitions. Proficient in **iOS development** using **Swift, UIKit & SwiftUI**. I am always willing to learn and keen to be able to help a team achieve its goals and ambitions 🙂. 
 
 #### Currently: 
-* Head of Software Systems [@sufst](https://github.com/sufst)
-* 2nd Year CS Student @ University of Southampton
+* Head of Software [@sufst](https://github.com/sufst)
+* 3rd Year MEng CS Student @ University of Southampton
 
 #### Skills:
 <div> 
