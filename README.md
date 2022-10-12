@@ -4,7 +4,7 @@ I am a 20-year-old responsible, reliable and willing to learn Computer Science ð
 
 #### Currently: 
 * Head of Software [@sufst](https://github.com/sufst)
-* 3rd Year MEng CS Student @ University of Southampton
+* 3rd Year CS Student @ University of Southampton
 
 #### Skills:
 <div> 
