@@ -3,7 +3,7 @@
 I am a Computer Science 💻 graduate with experience in Software Engineering, iOS Development and Project Management. I have spent my university years working on a **TypeScript - React.js** application to wirelessly show and graph real-time telemetry sensor data from a race car used during Formula Student competitions. Proficient in **iOS development** using **Swift, UIKit & SwiftUI**. I am always willing to learn and keen to be able to help a team achieve its goals and ambitions 🙂. 
 
 #### Experience: 
-* Business Development Intern | Wallet, Payments & Commerce @Apple
+* Business Development Intern | Wallet, Payments & Commerce [@Apple](https://github.com/apple) 
 * Associate Consultant Intern (Summer 2023) [@Mastercard](https://github.com/Mastercard)
 * Head of Software (2021-2023) [@sufst](https://github.com/sufst)
 
